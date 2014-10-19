@@ -1,0 +1,1 @@
+{"player_list":[{"energy":3,"money":21,"bestRecord":0}]}
